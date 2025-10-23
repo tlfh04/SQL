@@ -25,6 +25,7 @@ DELETE FROM customer WHERE id = 1;
 -- SELECT
 SELECT name, email AS 이메일, id FROM customer;
 
+-- SELECT world
 USE world;
 SELECT * FROM country;
 SELECT DISTINCT Continent FROM country;
