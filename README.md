@@ -6,3 +6,5 @@
 - `2025.10.24` : SQL 기초 SELECT, WHERE, 정렬과 제한, 집계, GROUP BY, CASE
 - `2025.10.27` : SQL 고급 JOIN, SubQuery, INDEX, VIEW
 - `2025.10.28` : SQL 고급 Transaction
+- `2025.10.29` : SQL 프로젝트
+- `2025.10.30` : SQL 프로젝트
